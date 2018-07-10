@@ -1,0 +1,174 @@
+Average experiment time: 00:50:54.167
+
+Average value for MaximisePFWithAcceptableTopics objective: -28.9
+============================================
+
+============================================
+
+Batch 0 duration: 00:50:34.548
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-0/3680DC83.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-0/batch-0-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 1 duration: 00:49:42.955
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-1/2448A18E.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-1/batch-1-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 2 duration: 00:50:26.257
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-2/1CDFF9B5.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -30.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-2/batch-2-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 3 duration: 00:50:08.651
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-3/0B3CB126.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-3/batch-3-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 4 duration: 00:52:52.543
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-4/40BFD5DD.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-4/batch-4-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 5 duration: 00:55:20.525
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-5/295EDD13.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-5/batch-5-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 6 duration: 00:50:22.628
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-6/0C89FC5F.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -30.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-6/batch-6-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 7 duration: 00:49:42.330
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-7/21E86EB0.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -28.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-7/batch-7-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 8 duration: 00:49:40.161
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-8/11914D8B.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -31.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-8/batch-8-serialized-objectives.pf
+============================================
+============================================
+
+============================================
+
+Batch 9 duration: 00:50:11.080
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-9/75EFEBDA.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -30.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161420-c1-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-100-Members-PAF-size-152-args.mopt-matching-henshin/batch-9/batch-9-serialized-objectives.pf
+============================================
+

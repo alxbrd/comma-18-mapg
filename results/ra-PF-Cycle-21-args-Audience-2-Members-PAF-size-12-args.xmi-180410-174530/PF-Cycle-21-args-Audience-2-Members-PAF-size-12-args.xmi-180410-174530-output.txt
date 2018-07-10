@@ -1,0 +1,2 @@
+Running experiment with input model: PF-Cycle-21-args-Audience-2-Members-PAF-size-12-args.xmi
+Experiment duration: 00:00:00.563

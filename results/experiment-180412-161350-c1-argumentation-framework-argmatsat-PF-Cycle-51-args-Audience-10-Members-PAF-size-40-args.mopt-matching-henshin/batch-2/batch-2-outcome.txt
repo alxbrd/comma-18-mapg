@@ -1,0 +1,14 @@
+
+============================================
+
+Batch 2 duration: 00:02:03.727
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-161350-c1-argumentation-framework-argmatsat-PF-Cycle-51-args-Audience-10-Members-PAF-size-40-args.mopt-matching-henshin/batch-2/78E3E6F9.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -0.0
+
+
+============================================
+

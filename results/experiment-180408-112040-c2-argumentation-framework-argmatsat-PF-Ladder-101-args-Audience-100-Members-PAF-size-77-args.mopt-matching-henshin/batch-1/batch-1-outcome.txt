@@ -1,0 +1,39 @@
+
+============================================
+
+Batch 1 duration: 00:26:58.254
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112040-c2-argumentation-framework-argmatsat-PF-Ladder-101-args-Audience-100-Members-PAF-size-77-args.mopt-matching-henshin/batch-1/359CC247.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -13.0
+MinimiseArgumentsPutForward: 0.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112040-c2-argumentation-framework-argmatsat-PF-Ladder-101-args-Audience-100-Members-PAF-size-77-args.mopt-matching-henshin/batch-1/72D32997.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -25.0
+MinimiseArgumentsPutForward: 4.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112040-c2-argumentation-framework-argmatsat-PF-Ladder-101-args-Audience-100-Members-PAF-size-77-args.mopt-matching-henshin/batch-1/1E4E2D6C.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -19.0
+MinimiseArgumentsPutForward: 1.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112040-c2-argumentation-framework-argmatsat-PF-Ladder-101-args-Audience-100-Members-PAF-size-77-args.mopt-matching-henshin/batch-1/4FF41BD5.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -22.0
+MinimiseArgumentsPutForward: 2.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112040-c2-argumentation-framework-argmatsat-PF-Ladder-101-args-Audience-100-Members-PAF-size-77-args.mopt-matching-henshin/batch-1/0AECCC55.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -24.0
+MinimiseArgumentsPutForward: 3.0
+
+
+============================================
+

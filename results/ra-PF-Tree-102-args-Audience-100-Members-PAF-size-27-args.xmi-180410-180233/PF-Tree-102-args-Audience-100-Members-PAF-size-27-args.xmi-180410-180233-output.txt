@@ -1,0 +1,4 @@
+Running experiment with input model: PF-Tree-102-args-Audience-100-Members-PAF-size-27-args.xmi
+Persuaded audience members: 32
+Winning arguments: "[\"a29\",\"a24\",\"a73\",\"a35\",\"a70\",\"a90\",\"a92\",\"a38\",\"a22\",\"a12\",\"a89\",\"a18\",\"a27\",\"a13\",\"a55\",\"a74\",\"a69\",\"a8\",\"a75\"]"
+Experiment duration: 00:00:18.930

@@ -1,0 +1,5 @@
+Running experiment with input model: PF-Cycle-21-args-Audience-2-Members-PAF-size-12-args.xmi
+Intermediate runtime: 00:03:26.637
+Persuaded audience members: 1
+Winning arguments: ["c7"]
+Total experiment duration: 07:17:00.997

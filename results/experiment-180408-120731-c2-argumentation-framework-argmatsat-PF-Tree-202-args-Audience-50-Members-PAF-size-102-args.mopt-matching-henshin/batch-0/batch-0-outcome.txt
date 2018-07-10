@@ -1,0 +1,39 @@
+
+============================================
+
+Batch 0 duration: 00:17:51.574
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-120731-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-102-args.mopt-matching-henshin/batch-0/6AE3FB94.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -8.0
+MinimiseArgumentsPutForward: 0.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-120731-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-102-args.mopt-matching-henshin/batch-0/6B26D356.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -14.0
+MinimiseArgumentsPutForward: 4.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-120731-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-102-args.mopt-matching-henshin/batch-0/1F0FDC17.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -10.0
+MinimiseArgumentsPutForward: 1.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-120731-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-102-args.mopt-matching-henshin/batch-0/29D6B5D4.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -12.0
+MinimiseArgumentsPutForward: 2.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-120731-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-102-args.mopt-matching-henshin/batch-0/1C421D9C.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -13.0
+MinimiseArgumentsPutForward: 3.0
+
+
+============================================
+

@@ -1,0 +1,2 @@
+Running experiment with input model: PF-Competition-691-args-Audience-50-Members-PAF-size-347-args.xmi
+Experiment duration: 00:55:55.722

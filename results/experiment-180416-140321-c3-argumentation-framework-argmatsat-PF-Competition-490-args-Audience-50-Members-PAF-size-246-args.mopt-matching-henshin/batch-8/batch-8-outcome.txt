@@ -1,0 +1,33 @@
+
+============================================
+
+Batch 8 duration: 01:01:13.419
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180416-140321-c3-argumentation-framework-argmatsat-PF-Competition-490-args-Audience-50-Members-PAF-size-246-args.mopt-matching-henshin/batch-8/73FA7BDD.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -16.0
+MinimiseArgumentsPutForward: 0.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180416-140321-c3-argumentation-framework-argmatsat-PF-Competition-490-args-Audience-50-Members-PAF-size-246-args.mopt-matching-henshin/batch-8/6E42492E.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -39.0
+MinimiseArgumentsPutForward: 3.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180416-140321-c3-argumentation-framework-argmatsat-PF-Competition-490-args-Audience-50-Members-PAF-size-246-args.mopt-matching-henshin/batch-8/042FCF5D.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -26.0
+MinimiseArgumentsPutForward: 1.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180416-140321-c3-argumentation-framework-argmatsat-PF-Competition-490-args-Audience-50-Members-PAF-size-246-args.mopt-matching-henshin/batch-8/27065106.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -33.0
+MinimiseArgumentsPutForward: 2.0
+
+
+============================================
+

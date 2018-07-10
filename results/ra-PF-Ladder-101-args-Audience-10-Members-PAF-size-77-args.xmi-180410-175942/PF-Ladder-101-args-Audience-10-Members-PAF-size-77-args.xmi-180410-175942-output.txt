@@ -1,0 +1,4 @@
+Running experiment with input model: PF-Ladder-101-args-Audience-10-Members-PAF-size-77-args.xmi
+Persuaded audience members: 6
+Winning arguments: "[\"b31\",\"b40\",\"c7\",\"c18\",\"c2\",\"b47\",\"c17\",\"b23\",\"c47\",\"c8\",\"c26\",\"b48\",\"b8\",\"b17\",\"b28\",\"b4\",\"c9\",\"c29\",\"b41\",\"c36\",\"b6\",\"b19\",\"b9\",\"b26\",\"c38\",\"c28\",\"c1\",\"c5\",\"c34\"]"
+Experiment duration: 00:00:05.018

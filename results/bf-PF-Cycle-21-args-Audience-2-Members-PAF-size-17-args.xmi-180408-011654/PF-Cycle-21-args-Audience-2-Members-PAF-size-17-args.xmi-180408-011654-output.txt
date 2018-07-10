@@ -1,0 +1,3 @@
+Running experiment with input model: PF-Cycle-21-args-Audience-2-Members-PAF-size-17-args.xmi
+No winning arguments found for this problem.
+Total experiment duration: 07:40:23.322

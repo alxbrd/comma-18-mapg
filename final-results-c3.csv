@@ -1,0 +1,4 @@
+configuration,inputModel,defaultPersuadedAudienceMembers,mdeo-runtime,mdeo-persuadedAudienceMembers,mdeo-arguments-put-forward,mdeo-average-hypervolume,mdeo-knee-point,ra-runtime,ra-persuadedAudienceMembers,ra-arguments-put-forward,ra-hypervolume,ra-knee-point
+configuration-3,PF-Competition-161-args-Audience-50-Members-PAF-size-82-args.xmi,9.0,00:15:04.175,10.45,0.55,0.19987577639751547,0,00:00:00.140169,2.63,78.02,0.0,0
+configuration-3,PF-Competition-490-args-Audience-50-Members-PAF-size-246-args.xmi,16.0,01:00:16.931,33.166666666666664,1.65,0.6370612244897959,0,00:00:00.225931,25.86,237.11,0.6486270871985158,0
+configuration-3,PF-Competition-691-args-Audience-50-Members-PAF-size-347-args.xmi,0.0,0,0,0,0,0,00:00:33.556730,0.0,335.49,0.0,0

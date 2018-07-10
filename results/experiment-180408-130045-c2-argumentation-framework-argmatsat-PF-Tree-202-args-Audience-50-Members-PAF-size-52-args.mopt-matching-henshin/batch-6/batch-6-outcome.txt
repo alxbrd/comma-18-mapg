@@ -1,0 +1,45 @@
+
+============================================
+
+Batch 6 duration: 00:54:42.703
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/24336114.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -16.0
+MinimiseArgumentsPutForward: 0.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/0E137D4C.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -33.0
+MinimiseArgumentsPutForward: 5.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/37EE63B7.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -29.0
+MinimiseArgumentsPutForward: 4.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/181C694C.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -19.0
+MinimiseArgumentsPutForward: 1.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/40366C05.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -23.0
+MinimiseArgumentsPutForward: 2.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-130045-c2-argumentation-framework-argmatsat-PF-Tree-202-args-Audience-50-Members-PAF-size-52-args.mopt-matching-henshin/batch-6/743D4196.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -26.0
+MinimiseArgumentsPutForward: 3.0
+
+
+============================================
+

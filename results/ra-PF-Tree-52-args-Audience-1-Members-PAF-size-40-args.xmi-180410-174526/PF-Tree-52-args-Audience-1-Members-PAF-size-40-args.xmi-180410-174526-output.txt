@@ -1,0 +1,2 @@
+Running experiment with input model: PF-Tree-52-args-Audience-1-Members-PAF-size-40-args.xmi
+Experiment duration: 00:00:00.311

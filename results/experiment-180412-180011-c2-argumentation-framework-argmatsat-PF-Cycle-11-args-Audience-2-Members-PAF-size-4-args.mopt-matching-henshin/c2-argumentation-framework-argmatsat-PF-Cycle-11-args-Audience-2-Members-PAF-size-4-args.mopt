@@ -1,0 +1,7 @@
+basepath <src/main/resources/models/argumentation/configuration-2/>
+metamodel <argumentation.ecore>
+model <PF-Cycle-11-args-Audience-2-Members-PAF-size-4-args.xmi>
+objective MaximisePFWithAcceptableTopics maximise java { "models.argumentation.fitness.MaximisePFWithAcceptableTopicsArgMatSat" }
+objective MinimiseArgumentsPutForward minimise java { "models.argumentation.fitness.MinimiseArgumentsPutForward" }
+mutate {"Persuader", "putsForward"}
+optimisation provider moea algorithm NSGAII variation mutation evolutions 250 population 30 batches 10

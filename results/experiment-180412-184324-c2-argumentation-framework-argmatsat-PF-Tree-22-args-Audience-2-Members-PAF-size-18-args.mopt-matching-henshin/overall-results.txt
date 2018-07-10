@@ -1,0 +1,195 @@
+Average experiment time: 00:00:22.769
+
+Average value for MinimiseArgumentsPutForward objective: 0.0
+Average value for MaximisePFWithAcceptableTopics objective: -1.0
+============================================
+
+============================================
+
+Batch 0 duration: 00:00:31.065
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-0/345CF395.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-0/batch-0-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-0/batch-0-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 1 duration: 00:00:22.469
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-1/58A6ADC7.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-1/batch-1-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-1/batch-1-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 2 duration: 00:00:21.766
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-2/4E6E77BC.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-2/batch-2-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-2/batch-2-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 3 duration: 00:00:21.737
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-3/2E93C071.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-3/batch-3-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-3/batch-3-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 4 duration: 00:00:21.799
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-4/0D882442.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-4/batch-4-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-4/batch-4-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 5 duration: 00:00:21.680
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-5/76F2644D.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-5/batch-5-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-5/batch-5-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 6 duration: 00:00:21.742
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-6/28A6B9F3.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-6/batch-6-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-6/batch-6-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 7 duration: 00:00:21.816
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-7/1E741C18.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-7/batch-7-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-7/batch-7-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 8 duration: 00:00:21.752
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-8/238E0CD8.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-8/batch-8-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-8/batch-8-pareto-front.jpeg
+============================================
+============================================
+
+============================================
+
+Batch 9 duration: 00:00:21.870
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-9/79EAC35F.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -1.0
+MinimiseArgumentsPutForward: 0.0
+
+
+============================================
+
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-9/batch-9-serialized-objectives.pf
+Serialized objectives saved to: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180412-184324-c2-argumentation-framework-argmatsat-PF-Tree-22-args-Audience-2-Members-PAF-size-18-args.mopt-matching-henshin/batch-9/batch-9-pareto-front.jpeg
+============================================
+

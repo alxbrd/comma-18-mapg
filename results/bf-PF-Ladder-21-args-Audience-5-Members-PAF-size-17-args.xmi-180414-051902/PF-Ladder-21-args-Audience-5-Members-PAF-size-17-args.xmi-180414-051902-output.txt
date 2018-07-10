@@ -1,0 +1,5 @@
+Running experiment with input model: PF-Ladder-21-args-Audience-5-Members-PAF-size-17-args.xmi
+Intermediate runtime: 00:00:01.266
+Persuaded audience members: 1
+Winning arguments: []
+Total experiment duration: 18:58:09.416

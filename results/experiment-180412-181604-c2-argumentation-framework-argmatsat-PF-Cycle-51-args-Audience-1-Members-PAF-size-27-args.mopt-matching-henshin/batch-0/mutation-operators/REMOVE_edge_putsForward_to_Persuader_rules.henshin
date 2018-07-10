@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ASCII"?>
+<henshin:Module xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:henshin="http://www.eclipse.org/emf/2011/Henshin" xmi:id="_6VeAID59EeiBu7FjeP3K3g" name="REMOVE_edge_putsForward_to_Persuader_rules" description="Removes Persuader edge of type putsForward">
+  <imports href="argumentation.ecore#/"/>
+  <units xsi:type="henshin:Rule" xmi:id="_6VeAIT59EeiBu7FjeP3K3g" name="removeFromPersuader_putsForward_Argument" description="Removes from Persuader's reference putsForward the target Argument">
+    <lhs xmi:id="_6VeAIj59EeiBu7FjeP3K3g" name="LHS">
+      <nodes xmi:id="_6VeAIz59EeiBu7FjeP3K3g" name="Selected" outgoing="_6VenMT59EeiBu7FjeP3K3g">
+        <type href="argumentation.ecore#//Persuader"/>
+      </nodes>
+      <nodes xmi:id="_6VenMD59EeiBu7FjeP3K3g" name="OldTarget" incoming="_6VenMT59EeiBu7FjeP3K3g">
+        <type href="argumentation.ecore#//Argument"/>
+      </nodes>
+      <edges xmi:id="_6VenMT59EeiBu7FjeP3K3g" source="_6VeAIz59EeiBu7FjeP3K3g" target="_6VenMD59EeiBu7FjeP3K3g">
+        <type href="argumentation.ecore#//Persuader/putsForward"/>
+      </edges>
+    </lhs>
+    <rhs xmi:id="_6VenMj59EeiBu7FjeP3K3g" name="RHS">
+      <nodes xmi:id="_6VenMz59EeiBu7FjeP3K3g" name="Selected">
+        <type href="argumentation.ecore#//Persuader"/>
+      </nodes>
+      <nodes xmi:id="_6VenND59EeiBu7FjeP3K3g" name="OldTarget">
+        <type href="argumentation.ecore#//Argument"/>
+      </nodes>
+    </rhs>
+    <mappings xmi:id="_6VenNT59EeiBu7FjeP3K3g" origin="_6VeAIz59EeiBu7FjeP3K3g" image="_6VenMz59EeiBu7FjeP3K3g"/>
+    <mappings xmi:id="_6VenNj59EeiBu7FjeP3K3g" origin="_6VenMD59EeiBu7FjeP3K3g" image="_6VenND59EeiBu7FjeP3K3g"/>
+  </units>
+</henshin:Module>

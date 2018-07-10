@@ -1,0 +1,5 @@
+Running experiment with input model: PF-Tree-22-args-Audience-2-Members-PAF-size-7-args.xmi
+Intermediate runtime: 00:00:00.552
+Persuaded audience members: 1
+Winning arguments: []
+Total experiment duration: 07:24:38.857

@@ -1,0 +1,4 @@
+Running experiment with input model: PF-Tree-12-args-Audience-1-Members-PAF-size-7-args.xmi
+Persuaded audience members: 1
+Winning arguments: "[\"a1\",\"a10\"]"
+Experiment duration: 00:00:00.259

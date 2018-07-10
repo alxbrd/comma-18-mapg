@@ -1,0 +1,4 @@
+Running experiment with input model: PF-Ladder-51-args-Audience-1-Members-PAF-size-27-args.xmi
+Persuaded audience members: 1
+Winning arguments: "[]"
+Experiment duration: 00:00:03.195

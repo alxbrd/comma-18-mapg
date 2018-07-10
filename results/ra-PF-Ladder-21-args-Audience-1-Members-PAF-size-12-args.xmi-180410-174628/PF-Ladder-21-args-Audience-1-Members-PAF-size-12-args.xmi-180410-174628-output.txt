@@ -1,0 +1,2 @@
+Running experiment with input model: PF-Ladder-21-args-Audience-1-Members-PAF-size-12-args.xmi
+Experiment duration: 00:00:00.277

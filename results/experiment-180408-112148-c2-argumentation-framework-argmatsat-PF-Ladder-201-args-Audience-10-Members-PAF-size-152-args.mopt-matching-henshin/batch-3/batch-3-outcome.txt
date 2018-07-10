@@ -1,0 +1,21 @@
+
+============================================
+
+Batch 3 duration: 00:04:50.734
+
+--------------------------------------------
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112148-c2-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-10-Members-PAF-size-152-args.mopt-matching-henshin/batch-3/1ABF0A95.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -3.0
+MinimiseArgumentsPutForward: 0.0
+
+Evaluation data for solution: /tmp/uk.ac.kcl.mdeoptimiser.parallel-experiments-executor/mdeo-results/experiment-180408-112148-c2-argumentation-framework-argmatsat-PF-Ladder-201-args-Audience-10-Members-PAF-size-152-args.mopt-matching-henshin/batch-3/0E5197FE.xmi
+
+Objective values:
+MaximisePFWithAcceptableTopics: -4.0
+MinimiseArgumentsPutForward: 1.0
+
+
+============================================
+

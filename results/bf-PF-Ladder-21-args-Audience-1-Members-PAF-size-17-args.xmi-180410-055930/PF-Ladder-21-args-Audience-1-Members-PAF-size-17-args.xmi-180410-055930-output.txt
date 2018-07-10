@@ -1,0 +1,3 @@
+Running experiment with input model: PF-Ladder-21-args-Audience-1-Members-PAF-size-17-args.xmi
+No winning arguments found for this problem.
+Total experiment duration: 01:56:35.045
